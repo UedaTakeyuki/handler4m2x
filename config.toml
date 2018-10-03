@@ -3,5 +3,5 @@
   [[sources.values]]
     name = "" # value name which is in the read() functions return.
     handlers = [
-      "send_m2x", # send handler to m2x
+      "handler4m2x.send_m2x", # send handler to m2x
     ]
